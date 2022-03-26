@@ -20,5 +20,5 @@ A quick and dirty script to produce a random Sim in The Sims 1(2000).
 
 **Leonardo Lake**
 
-- [Website](https://twitter.com/roninkinx "Hiya")
+- [Twitter](https://twitter.com/roninkinx "Hiya")
 - [Email](mailto:ianriku4@gmail.com?subject=Hi "YEA")
